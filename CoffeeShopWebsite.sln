@@ -1,0 +1,45 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSS", "CSS", "{2ED9569D-3ECB-4C92-9F35-0E1BC8C0941D}"
+	ProjectSection(SolutionItems) = preProject
+		css\bootstrap-grid.css = css\bootstrap-grid.css
+		css\bootstrap-grid.css.map = css\bootstrap-grid.css.map
+		css\bootstrap-grid.min.css = css\bootstrap-grid.min.css
+		css\bootstrap-grid.min.css.map = css\bootstrap-grid.min.css.map
+		css\bootstrap-reboot.css = css\bootstrap-reboot.css
+		css\bootstrap-reboot.css.map = css\bootstrap-reboot.css.map
+		css\bootstrap-reboot.min.css = css\bootstrap-reboot.min.css
+		css\bootstrap-reboot.min.css.map = css\bootstrap-reboot.min.css.map
+		css\bootstrap.css = css\bootstrap.css
+		css\bootstrap.css.map = css\bootstrap.css.map
+		css\bootstrap.min.css = css\bootstrap.min.css
+		css\bootstrap.min.css.map = css\bootstrap.min.css.map
+		css\site.css = css\site.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{078E5C3B-861E-4E1F-A710-2B932BCC8295}"
+	ProjectSection(SolutionItems) = preProject
+		js\bootstrap.bundle.js = js\bootstrap.bundle.js
+		js\bootstrap.bundle.js.map = js\bootstrap.bundle.js.map
+		js\bootstrap.bundle.min.js = js\bootstrap.bundle.min.js
+		js\bootstrap.bundle.min.js.map = js\bootstrap.bundle.min.js.map
+		js\bootstrap.js = js\bootstrap.js
+		js\bootstrap.js.map = js\bootstrap.js.map
+		js\bootstrap.min.js = js\bootstrap.min.js
+		js\bootstrap.min.js.map = js\bootstrap.min.js.map
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{FF3A8920-7531-4AC1-ABE4-8D96F57C03F9}"
+	ProjectSection(SolutionItems) = preProject
+		Images\IMG_1976.jpeg = Images\IMG_1976.jpeg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal
