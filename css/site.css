@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.navbar {
+    background-color: #4E2E28;
+}
+
+.carousel-inner > .item > img {
+    width: 1024px;
+    height: 760px;
+}
+
+.text-peanutbutter {
+    color: #D0B078;
+}
