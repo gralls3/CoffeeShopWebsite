@@ -32,7 +32,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "JS", "JS", "{078E5C3B-861E-
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{FF3A8920-7531-4AC1-ABE4-8D96F57C03F9}"
 	ProjectSection(SolutionItems) = preProject
-		Images\IMG_1976.jpeg = Images\IMG_1976.jpeg
+		Images\espresso_water.jpeg.png = Images\espresso_water.jpeg.png
+		Images\espresso_table.png = Images\espresso_table.png
+		Images\stained_glass.png = Images\stained_glass.png
 	EndProjectSection
 EndProject
 Global
